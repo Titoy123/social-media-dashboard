@@ -22,11 +22,11 @@ Users should be able to:
 
 - View the optimal layout for the site depending on their device's screen size
 - See hover states for all interactive elements on the page
-- Switch between viewing Daily, Weekly, and Monthly stats
-- 
+- Can toggle the Dark Mode
+
 ### Links
 
-- Solution URL: [Github Repo](https://github.com/troyjosedev/social-media-dashboard/edit/main/)
+- Solution URL: [Github Repo](https://github.com/troyjosedev/social-media-dashboard)
 - Live Site URL: [Netlify Live Site](https://socialmedia-dashboard-theme-switcher.netlify.app/)
 
 ### Built with
